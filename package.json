@@ -1,0 +1,14 @@
+{
+  "name": "roboclaw",
+  "version": "1.0.0",
+  "description": "NodeJS Interface to RoboClaw Speed Controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZQ Yeo",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^6.1.1"
+  }
+}
